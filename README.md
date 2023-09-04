@@ -45,7 +45,13 @@ Applied the trained LSTM and XGBoost models to make predictions on new, unseen s
 Analyzed the predictions and assessed their accuracy and reliability using evaluation metrics and visualizations.
 This structured process provides a clear overview of the steps involved in your stock price prediction project, from data collection and preprocessing to model training, evaluation, and prediction.
 
-#Red Wine Quality Analysis Project Workflow:
+
+
+
+# Red Wine Quality Analysis Project Workflow:
+
+
+
 
 Data Collection: Obtained a dataset from the internship organization containing information about red wine samples. The dataset included various attributes such as acidity levels, pH, alcohol content, and chemical properties, alongside quality ratings.
 
